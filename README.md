@@ -17,5 +17,18 @@
 - How is secondary audience different primary ? 
 - Supply more background information ?
 - Reshape message for secondary audience ? 
+## 3) Introducing the 3-x-3 Writing Process
+### Prewriting 
+- Analyze audience and purpose
+- Anticipate audience and its reaction to message
+- Adapt message to audience
+### Drafting 
+- Research background, collect info
+- Organize info
+- Draft first version
+### Revising 
+- Edit for clarity
+- Proofread
+- Evaluate whether the message will accomplsih goals
 
 
