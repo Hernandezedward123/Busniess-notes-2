@@ -6,3 +6,4 @@
 - Receiver decodes message 
 - Feedback Returns to sender
 - Process begins again at Step 1
+## 2) 
